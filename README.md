@@ -45,3 +45,20 @@ addEventListener(
  1. **请勿滥用，免费服务少之又少，且用且珍惜**
  2. 若使用域名接入 CloudFlare，请考虑启用 TLS 1.3
  3. AWS 绝大部分 IPv4 地址已被 Twitter 屏蔽
+
+
+# Paas
+目前用到的PaaS平台介绍
+以下介绍均为免费版
+
+## [heroku](https://dashboard.heroku.com/)
+ * 支持Docker
+ * 登录需要翻墙
+ * **30min**无人访问休眠
+ * 每月**550h**时长
+
+## [Render](https://dashboard.render.com/)
+ * 支持Docker
+ * 无需翻墙，本身域名接入Cloudflare
+ * **15min**无人访问休眠
+ * 每月**750h**时长(也就是一个应用可以24*31一直运行)
