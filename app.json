@@ -1,7 +1,7 @@
 {
-    "name": "V2Ray",
-    "description": "Deploy V2ray VLESS on Heroku.",
-    "keywords": ["V2Ray"],
+    "name": "qiang",
+    "description": "fanqiang.",
+    "keywords": ["qiang"],
     "env": {
         "ID": {
             "description": "UUID",
